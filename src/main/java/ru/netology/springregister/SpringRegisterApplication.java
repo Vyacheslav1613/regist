@@ -8,5 +8,4 @@ public class SpringRegisterApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringRegisterApplication.class, args);
     }
-
 }
